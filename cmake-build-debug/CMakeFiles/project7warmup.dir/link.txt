@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/project7warmup.dir/main.cpp.o  -o project7warmup.exe -Wl,--out-implib,libproject7warmup.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
